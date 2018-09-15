@@ -65,6 +65,7 @@ There are 2 types of command:
 
 ![](images/setting_variables.png)
 
+
 ### Setting Command
 To create a Setting Command, create a class that inherits from Command and add SettingCommand attribute. By default, all variables are saved/loaded automatically on device
 Support currently :
@@ -189,6 +190,7 @@ void OnCommandCreated(List<Command> commands)
 
 ## Mobile Console Settings
 Asset file: `Mobile Console/Resources/LogConsoleSettings.assets`
+![](images/console_settings.png)
 
 ### Startup
 #### Auto Startup
