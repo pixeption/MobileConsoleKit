@@ -22,7 +22,7 @@ For more detail on each features, please see the wiki below:
 - [Log Channel](https://github.com/pixeption/MobileConsoleKit/wiki/Log-Channel)
 - [Share Log](https://github.com/pixeption/MobileConsoleKit/wiki/Share-Log)
 - [Setting & Executable Commands](https://github.com/pixeption/MobileConsoleKit/wiki/Commands)
-- [Built-in Commands](https://github.com/pixeption/MobileConsoleKit/wiki/Built-in-Commands)
+- [Built-in Commands (Search Game Object, PlayerPrefs Inspector, Persistent Data Inspector)](https://github.com/pixeption/MobileConsoleKit/wiki/Built-in-Commands)
 
 ## Advance
 - [Built-in Log](https://github.com/pixeption/MobileConsoleKit/wiki/Built-in-Log)
