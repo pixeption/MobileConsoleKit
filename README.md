@@ -41,6 +41,8 @@ As there are many parts of the tool have been rewritten, it's recommended that y
 - [v2.0 Showcase](https://youtu.be/aQfkZ8-pjQU)
 
 # Demo APK
+- [PlayStore](https://play.google.com/store/apps/details?id=com.pixeption.mck.showcase)
+- [Github](https://github.com/pixeption/MobileConsoleKit/blob/master/demo/v2.0_demo.apk)
 
 # Preview Images
 ## Tool Overview
