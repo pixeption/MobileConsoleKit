@@ -1,5 +1,5 @@
 # Mobile Console Kit
-Mobile Console Kit is tool that help you monitor your mobile game in Unity [Asset Store](https://assetstore.unity.com/packages/tools/gui/mobile-console-kit-128118).
+Mobile Console Kit is a Unity [Asset Store](https://assetstore.unity.com/packages/tools/gui/mobile-console-kit-128118) that help you not just viewing logs in mobile devices, but helping you monitor, do experiment and speed up development time.
 
 > Mobile Console Kit depends on TextMesh Pro for high performance and customization. You need to install `TextMesh Pro` and import `Essential Resources` before installing Mobile Console Kit
 
