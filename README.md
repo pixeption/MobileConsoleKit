@@ -26,7 +26,7 @@ For more detail on each features, please see the wiki below:
 
 ## Advance
 - [Built-in Log](https://github.com/pixeption/MobileConsoleKit/wiki/Built-in-Log)
-- [Console Setting](https://github.com/pixeption/MobileConsoleKit/wiki/Console-Settings)
+- [Console Settings](https://github.com/pixeption/MobileConsoleKit/wiki/Console-Settings)
 - [View Builder](https://github.com/pixeption/MobileConsoleKit/wiki/View-Builder)
 
 # Migrate from v1.0 to v2.0
