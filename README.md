@@ -4,7 +4,7 @@ Mobile Console Kit is a Unity [Asset Store](https://assetstore.unity.com/package
 > Mobile Console Kit depends on TextMesh Pro for high performance and customization. You need to install `TextMesh Pro` and import `Essential Resources` before installing Mobile Console Kit
 
 # Key features
-- Enable/Disable Mobile Consoke with a single click (no trace left)
+- Enable/Disable Mobile Console with a single click (no trace left)
 - Highly optimization, can handle dozen of thousands of logs
 - Supports basic functions like filter log by type, collapse
 - Supports log channel
