@@ -12,7 +12,11 @@ Mobile Console Kit is a Unity [Asset Store](https://assetstore.unity.com/package
 - Share log via Native Share
 - Unified portrait and landscape UI, resizable window and adjustable background transparency
 - User-defined Setting and Commands, allow you to create your own tools
-- Comes with powerful tools including view Application & Device info, Search GameObject by name/tag/component, view PlayerPrefs and inspect persistent data
+- Comes with powerful tools including: 
+  - Application & Device info
+  - Search GameObject by name/tag/component
+  - Inspect PlayerPrefs
+  - Inspect persistent data
 
 # Table of content
 For more detail on each features, please see the wiki below:
