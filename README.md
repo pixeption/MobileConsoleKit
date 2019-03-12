@@ -36,7 +36,9 @@ For more detail on each features, please see the wiki below:
 # Migrate from v1.0 to v2.0
 As there are many parts of the tool have been rewritten, it's recommended that you need to delete the whole **Mobile Console** folder before import the new one
 
-# [Click here for video demo](https://youtu.be/IGDuiXixl1Q)
+# Video Demo
+- [v1.0 Introduction](https://youtu.be/IGDuiXixl1Q)
+- [v2.0 Showcase](https://youtu.be/aQfkZ8-pjQU)
 
 # Demo APK
 
