@@ -1,4 +1,14 @@
-# Version 2.0
+# v2.0.1
+## Fixes
+- [Native Helper] A small typo causes error when building iOS
+- [Share Log] Share log on Android didn't open Chooser on subsequent sharing
+
+## Improvemments
+- [Editor] Enable Mobile Console Kit also enables development build
+- [Command/App and device info] Add more useful infos including: CPU, memory, GPU, screen size
+
+
+# v2.0
 ## Features
 - [Log] Add support for `Log Channel`
 - [Command] Add support for dropdown control with string, int and float
