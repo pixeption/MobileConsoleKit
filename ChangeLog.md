@@ -1,3 +1,22 @@
+# v2.0.2
+## Features
+- [Android] Add support for Android Back button, you can now back and close views
+- [Command] Get a command instance by its type `LogConsole.GetCommand<T>`
+- [View] Add `LogConsole.OnVisibilityChanged` event
+
+## Fixes
+- [Command] Press the Action button causes exception
+- [View] ScrollView doesn't save scroll position position correctly
+- [View] A pixel off between top bar and center view on some devices
+- [Command] Put unsupported public field type (Vector2, ...) in command causes exception and the tool stop working
+
+## Improvements
+- [Command] `OnVariableValueLoaded` and `OnValueChanged(string varName)` functions no longer deprecated. You'll decide what to use
+- [Command/Dropdown] Improve the way long string values are displayed in dropdown cell
+- [Command/Dropdown] Assign default value to dropdown field if it hasn't been initialized yet
+- [Command] Warning about unsupported field type in Command
+
+
 # v2.0.1
 ## Fixes
 - [Native Helper] A small typo causes error when building iOS
@@ -15,7 +34,7 @@
 - [Command] Add new `Search Game Object` command that you can search for game object in scene via name/tag/component and inspect it
 - [Command] Add new `PlayerPref Inspector` command that show all player preferences. Support for Mac & Window editor, iOS and Android Runntime
 - [Command] Add new `Persistent Data Inspector` command that show all files under persistent data folder and inspect it
-- [Command] Command: `OnVariableValueLoaded` and `OnValueChanged(string varName)` have been deprecated and will be removed. Added new `[Variable]` attribute as a replacement
+- [Command] `OnVariableValueLoaded` and `OnValueChanged(string varName)` have been deprecated and will be removed. Added new `[Variable]` attribute as a replacement
 - [Command] Add support for dynamic button in Command via `[Button]` attribute
 - [View] The tool UI has been rewritten as `ViewBuilder` to support dynamic UI so you can create your own UI easily.
 - [Setting] The console background transparency can be controlled in `Setting/Console/Background Transparency`
