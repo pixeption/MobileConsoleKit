@@ -1,7 +1,7 @@
 # v2.0.2
 ## Features
 - [Android] Add support for Android Back button, you can now back and close views
-- [Command] Get a command instance by its type `LogConsole.GetCommand<T>`
+- [Command] Get a command instance by its type `LogConsole.GetCommand`
 - [View] Add `LogConsole.OnVisibilityChanged` event
 
 ## Fixes
