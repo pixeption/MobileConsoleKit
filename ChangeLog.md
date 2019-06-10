@@ -1,3 +1,14 @@
+# v2.0.3
+## Improvements
+- [Share Log] When sharing all log, it will be written to a file in persistent folder and shared as a file. This will help to avoid 1 MB litmit on Android when sharing text. On Editor, you can open the log folder in `Tools > Mobile Console > Open Log Folder` 
+- [Editor] Suppress all warning 0649 (variable is never assigned)
+
+## Fixes
+- [Log] Channel regex wasn't correct in some cases
+- [Command] There is now a message that states `PlayerPrefsCommand` isn't supported on Window with .NET Standard 2.0.
+- [Native Helper] Rename some native functions to avoid conflict with Unity 2019
+
+
 # v2.0.2
 ## Features
 - [Android] Add support for Android Back button, you can now back and close views
