@@ -1,6 +1,7 @@
 # v2.0.4
 ## Improvements
-- [Share Log] When sharing a log on editor or standalone platform, the log will be copied to Clipboard. When sharing all logs, it will be sent to default `Email Client`. Email subject and recipients can be configured in `LogConsoleSettings.asset`
+- [Share Log] When sharing a log on editor or standalone platform, the log will be copied to `Clipboard`. 
+- [Share Log] When sharing all logs, it will be sent to default `Email Client`. Email subject and recipients can be configured in `LogConsoleSettings.asset`
 
 ## Fixes
 - [Editor] Fixed Slider component issue in Unity 2019.2
