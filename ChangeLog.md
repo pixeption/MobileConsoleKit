@@ -1,3 +1,12 @@
+# v2.0.4
+## Improvements
+- [Share Log] When sharing a log on editor or standalone platform, the log will be copied to Clipboard. When sharing all logs, it will be sent to default `Email Client`. Email subject and recipients can be configured in `LogConsoleSettings.asset`
+
+## Fixes
+- [Editor] Fixed Slider component issue in Unity 2019.2
+- [Command] Search Game Object Command does not handle case sensitive correctly
+
+
 # v2.0.3
 ## Improvements
 - [Share Log] When sharing all log, it will be written to a file in persistent folder and shared as a file. This will help to avoid 1 MB litmit on Android when sharing text. On Editor, you can open the log folder in `Tools > Mobile Console > Open Log Folder` 
