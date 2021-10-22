@@ -1,0 +1,13 @@
+{
+	"name": "com.pixeption.mck",
+	"version": "2.1.0",
+	"displayName": "Mobile Console Kit",
+	"description": "Mobile Console Kit",
+	"unity": "2018.3",
+	"keywords": [],
+	"author": {
+		"name": "Pixeption",
+		"email": "pixeption@gmail.com.com"
+	},
+	"type": "library"
+}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77127c9776519440d90a758a9928b969, type: 3}
+  m_Name: AssetConfig
+  m_EditorClassIdentifier: 
+  cellTemplates:
+  - {fileID: 114470110678265444, guid: 87b1d628487544e6eadb0187ea199e01, type: 2}
+  - {fileID: 114740872342383224, guid: 6f666d5b73da74688a7b8a3780220734, type: 2}
+  - {fileID: 114115320229104222, guid: 026b339885d9445df8fc96622c2a9988, type: 2}
+  - {fileID: 114526845718335770, guid: 735562412a9b34280b428fc4c7404819, type: 2}
+  - {fileID: 114704087052108440, guid: 2a02036292d3e4495ae88d5a3412a6d0, type: 2}
+  - {fileID: 114046484074627550, guid: 1b4cfbc8d75f94f9ca57c4ca3bb4902d, type: 2}
+  - {fileID: 114685648794806562, guid: 1d52f9cd930a647ac97d89646103709a, type: 2}
+  sprites:
+  - name: category
+    sprite: {fileID: 21300000, guid: 56ad615bf830d4efb84445a1f62c1c39, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: category_close
+    sprite: {fileID: 21300000, guid: 111069a5f4b764fc8bb4875b5ab771d8, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: command
+    sprite: {fileID: 21300000, guid: a85fee64c1160414da73d946d3a597a8, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: execute
+    sprite: {fileID: 21300000, guid: 52acbf2bf7c6a42cf89f5d053da3b06f, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: share
+    sprite: {fileID: 21300000, guid: c3739a7e87b554240b10533038612b98, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: log_info
+    sprite: {fileID: 21300000, guid: c51572fd984c4470aa5836ec98b17052, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 0.78431374}
+  - name: log_warning
+    sprite: {fileID: 21300000, guid: c75992228b69642b3a9a5384265788b0, type: 3}
+    color: {r: 0.99215686, g: 0.7490196, b: 0.1764706, a: 1}
+  - name: log_error
+    sprite: {fileID: 21300000, guid: e7e390c6a2fdf41d38f7349a1771ff32, type: 3}
+    color: {r: 0.9529412, g: 0.2, b: 0.27450982, a: 1}
+  - name: cube
+    sprite: {fileID: 21300000, guid: 92dd10547f91b457f9084f117deab1c5, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: action
+    sprite: {fileID: 21300000, guid: 9de2e350911eb4ea294639cd18c99430, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: search
+    sprite: {fileID: 21300000, guid: 7c575803acfd34207858b991a0040268, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+  - name: delete
+    sprite: {fileID: 21300000, guid: 41504a021793e4fd89b1d729e6efb9af, type: 3}
+    color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}

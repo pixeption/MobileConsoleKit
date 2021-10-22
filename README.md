@@ -42,32 +42,32 @@ As there are many parts of the tool have been rewritten, it's recommended that y
 
 # Demo APK
 - [PlayStore](https://play.google.com/store/apps/details?id=com.pixeption.mck.showcase)
-- [Github](https://github.com/pixeption/MobileConsoleKit/blob/master/demo/v2.0_demo.apk)
+- [Github](https://github.com/pixeption/MobileConsoleKit/releases/download/demo/v2.0_demo.apk)
 
 # Preview Images
 ## Tool Overview
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/background_transparency.png)
+![](https://i.imgur.com/8tO6mb1.png) ![](https://i.imgur.com/53ZIG2H.png)
 
 ## Share Log View
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/share_3.PNG)
+![](https://i.imgur.com/LQ0wEzE.png)
 
 ## Setting View
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/setting_view.png)
+![](https://i.imgur.com/Rc0TGhi.png)
 
 ## Command View
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/command_view.png)
+![](https://i.imgur.com/Y8flnun.png)
 
 ## Log Channel Filter
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/channel_filter.png)
+![](https://i.imgur.com/lLOx3Y6.png)
 
 ## App and Device Info
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/app_and_device_info.png)
+![](https://i.imgur.com/tmz2UVn.png)
 
 ## Persistent Data Inspector
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/persistent_data_inspector.png) ![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/text_inspector.png)
+![](https://i.imgur.com/Z3jf5Bt.png) ![](https://i.imgur.com/RiSjjGh.png)
 
 ## PlayerPrefs Inspector
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/player_prefs_inspector.png)
+![](https://i.imgur.com/dP0e2rx.png)
 
 ## Search GameObject
-![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/search_game_object_result.png) ![](https://github.com/pixeption/MobileConsoleKit/blob/master/images/game_object_inspector.png)
+![](https://i.imgur.com/qpqgMMW.png) ![](https://i.imgur.com/3ueQ451.png)

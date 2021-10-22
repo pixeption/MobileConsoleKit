@@ -1,3 +1,14 @@
+# v2.1.0
+## Breaking Change
+- Full source code, you'll need to remove old asset before importing the new one
+
+## Improvements
+- Safe area
+
+## Fixes
+- Various small bug fixes
+
+
 # v2.0.4
 ## Improvements
 - [Share Log] When sharing a log on editor or standalone platform, the log will be copied to `Clipboard`. 

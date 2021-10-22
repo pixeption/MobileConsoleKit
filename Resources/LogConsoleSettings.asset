@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d28afdf3bd2b423ca5a5f679545e31d, type: 3}
+  m_Name: LogConsoleSettings
+  m_EditorClassIdentifier: 
+  autoStartup: 1
+  hideInHierarchy: 1
+  useLogButton: 1
+  showTimestamp: 1
+  timeFormat: '[hh:mm:ss.ff]  '
+  showLogChannel: 1
+  channelFormat: '[{0}]'
+  channelSeparator: 44
+  showFPS: 1
+  useRegexSearch: 1
+  regexSearchOptions: 1
+  useShareLogViaMail: 1
+  mailSubject: 
+  mailRecipients: []
+  _treeViewOffset: 60
+  windowWidth: 1
+  windowHeight: 1
+  windowPosX: 0
+  windowPosY: 0
+  _backgroundTransparency: 1
+  _oddCellColor: {r: 0.149, g: 0.149, b: 0.149, a: 1}
+  _evenCellColor: {r: 0.18, g: 0.18, b: 0.18, a: 1}
+  useCategoryColor: 1
