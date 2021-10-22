@@ -12,6 +12,19 @@ namespace MobileConsole.Editor
 		const string ToolVersion = "2.1.0";
 		const string DebugLogDefineSymbol = "DebugLog";
 
+		[DidReloadScripts]
+		static void CreateLogConsoleSettings()
+		{
+			var setting = Resources.Load<LogConsoleSettings>("LogConsoleSettings");
+			if (setting == null)
+			{
+				setting = ScriptableObject.CreateInstance<LogConsoleSettings>();
+				
+				Directory.CreateDirectory("Assets/Resources");
+				AssetDatabase.CreateAsset(setting, "Assets/Resources/LogConsoleSettings.asset");
+			}
+		}
+
 		static void SaveAssets()
 		{
 			AssetDatabase.SaveAssets();

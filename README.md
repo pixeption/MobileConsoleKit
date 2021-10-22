@@ -46,7 +46,7 @@ As there are many parts of the tool have been rewritten, it's recommended that y
 
 # Preview Images
 ## Tool Overview
-![](https://i.imgur.com/8tO6mb1.png) ![](https://i.imgur.com/53ZIG2H.png)
+![](https://i.imgur.com/8tO6mb1.png) ![](https://i.imgur.com/MRW3zcq.png) ![](https://i.imgur.com/UCqadL7.png)
 
 ## Share Log View
 ![](https://i.imgur.com/LQ0wEzE.png)
