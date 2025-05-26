@@ -15,7 +15,7 @@ namespace MobileConsole.UI
 		void Awake()
 		{
 			CanvasScaler canvasScaler = GetComponent<CanvasScaler>();
-			if (Screen.orientation == ScreenOrientation.Landscape)
+			if (Screen.orientation == ScreenOrientation.LandscapeLeft || Screen.orientation == ScreenOrientation.LandscapeRight)
 			{
 				canvasScaler.referenceResolution = new Vector2(_landscapeWidth, _landscapeHeight);
 			}
