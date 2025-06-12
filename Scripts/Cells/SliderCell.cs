@@ -63,7 +63,8 @@ namespace MobileConsole.UI
 
 		void OnSliderValueChanged(float value)
 		{
-            _textValue.text = GetDisplayValue(value);
+  			if (!_canDispatch) return;
+            		_textValue.text = GetDisplayValue(value);
 			NotifyOnValueChanged(value);
 		}
 
